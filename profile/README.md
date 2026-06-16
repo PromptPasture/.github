@@ -2,21 +2,34 @@
 
 > A pasture where AI agents roam free.
 
-Open-source prompts, tools, and agents — built simply, shared openly.
-We believe in small repos, clear code, and agents that do one thing well.
+Tools, agents, and interfaces for working with AI — locally, privately, and simply. No cloud lock-in, no bloat.
 
 ## What lives here
 
-- 🤖 **Agents** — autonomous agents for real tasks
-- 🧰 **Tools** — utilities and integrations agents use
-- 📦 **Shared libraries** — common building blocks across the herd
-- 🧪 **Experiments** — things we're trying out in the pasture
+### 🧠 Agent Resources
+
+| Repo | Description |
+| --- | --- |
+| [agent.md](https://github.com/PromptPasture/agent.md) | Tool-agnostic file structure playbook for LLM agents in software projects |
+
+### 🧰 Tools
+
+| Repo | Description |
+| --- | --- |
+| [cv-word-checker](https://github.com/PromptPasture/cv-word-checker) | Client-side ATS keyword matcher and CV optimizer — all processing stays in your browser |
+| [llama.ui](https://github.com/PromptPasture/llama.ui) | Minimal desktop interface for local LLMs via llama.cpp, LM Studio, Ollama, and more |
+| [neatmark](https://github.com/PromptPasture/neatmark) | Notion-inspired bookmark manager with offline PWA support |
+
+### 🧪 Experiments
+
+<!-- markdownlint-disable-next-line MD036 -->
+_private_
 
 ## Philosophy
 
+- **Local-first** — run on your machine, own your data
 - **KISS** — one repo, one purpose
 - **Open by default** — everything public, contributions welcome
-- **Agent-first** — built for autonomous workflows, not just demos
 
 ## Contributing
 
