@@ -18,8 +18,9 @@ Tools, agents, and interfaces for working with AI — locally, privately, and si
 
 ### 🧪 Experiments
 
-<!-- markdownlint-disable-next-line MD036 -->
-_private_
+- **[pi-onboard](https://github.com/PromptPasture/pi-onboard):** Audit-first onboarding CLI for Pi Coding Agent
+- **[jan-klod](https://github.com/PromptPasture/jan-klod):** Minimal Java/Quarkus AI agent runtime — small stable core, everything else in extensions
+- **[pie](https://github.com/PromptPasture/pie):** Desktop GUI client for Pi Coding Agent
 
 ## Philosophy
 
