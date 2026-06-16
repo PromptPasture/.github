@@ -6,19 +6,15 @@ Tools, agents, and interfaces for working with AI — locally, privately, and si
 
 ## What lives here
 
-### 🧠 Agent Resources
+### 🤖 Agents
 
-| Repo | Description |
-| --- | --- |
-| [agent.md](https://github.com/PromptPasture/agent.md) | Tool-agnostic file structure playbook for LLM agents in software projects |
+- **[agent.md](https://github.com/PromptPasture/agent.md):** Tool-agnostic file structure playbook for LLM agents in software projects
 
 ### 🧰 Tools
 
-| Repo | Description |
-| --- | --- |
-| [cv-word-checker](https://github.com/PromptPasture/cv-word-checker) | Client-side ATS keyword matcher and CV optimizer — all processing stays in your browser |
-| [llama.ui](https://github.com/PromptPasture/llama.ui) | Minimal desktop interface for local LLMs via llama.cpp, LM Studio, Ollama, and more |
-| [neatmark](https://github.com/PromptPasture/neatmark) | Notion-inspired bookmark manager with offline PWA support |
+- **[cv-word-checker](https://github.com/PromptPasture/cv-word-checker):** Client-side ATS keyword matcher and CV optimizer — all processing stays in your browser
+- **[llama.ui](https://github.com/PromptPasture/llama.ui):** Minimal desktop interface for local LLMs via llama.cpp, LM Studio, Ollama, and more
+- **[neatmark](https://github.com/PromptPasture/neatmark):** Notion-inspired bookmark manager with offline PWA support
 
 ### 🧪 Experiments
 
